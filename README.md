@@ -45,31 +45,5 @@
 
 ---
 
-## 🤝 Contributing
-Contributions are welcome! 🚀 If you have ideas for additional features or improvements, feel free to:
-1. **Fork the repository**.
-2. **Create a new branch**.
-3. **Submit a pull request**.
-
-📉 Please ensure your code adheres to the repository's coding standards and includes detailed comments.
-
----
-
-## 🌟 Future Work
-- 🛠️ Adding support for **more IoT sensors and devices**.
-- 🎨 Enhancing the AR interface with **3D models and animations**.
-- 🤖 Exploring **machine learning** for predictive IoT data visualization.
-
----
-
-## 📜 License
-This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-Special thanks to all contributors and the **open-source community** for providing tools and libraries that made this project possible. 💙
-
----
 
 For more details or to report issues, please visit the [GitHub Repository](https://github.com/arulx06/AR-with-IoT).
