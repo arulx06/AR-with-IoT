@@ -48,4 +48,4 @@
 
 ---  
 
-For more details or to report issues, please visit the [GitHub Repository](https://github.com/arulx06/AR-with-IoT).
+For more details or to report issues, please visit the [GitHub Repository](https://github.com/arulx06/AR-with-IoT). 
